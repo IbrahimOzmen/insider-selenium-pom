@@ -24,7 +24,7 @@ A comprehensive Selenium-based test automation framework for testing [Insider](h
 ```bash
 # Clone and run in 3 commands
 git clone <repository-url>
-cd InsiderFinalProject
+cd insider-selenium-pom
 pip install -r requirements.txt && python run_tests.py
 ```
 
@@ -63,7 +63,7 @@ This framework automates the following end-to-end test scenario:
 1. **Clone the repository**
 ```bash
 git clone <repository-url>
-cd InsiderFinalProject
+cd insider-selenium-pom
 ```
 
 2. **Create virtual environment (recommended)**
@@ -119,7 +119,7 @@ Set `BROWSER = "firefox"` in `config/config.py`
 ## Project Structure
 
 ```
-InsiderFinalProject/
+insider-selenium-pom/
 ├── config/
 │   ├── config.py                 # Main configuration
 │   └── locators.py              # Web element locators
