@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+.Python
+
+# Virtual Environment
+venv/
+.venv/
+env/
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Test Reports
+reports/html/*.html
+reports/screenshots/*.png
+*.log
+
+# WebDriver (if manually downloaded)
+drivers/
+chromedriver*
+geckodriver*
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Distribution
+build/
+dist/
+*.egg-info/
+
+# pytest
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
