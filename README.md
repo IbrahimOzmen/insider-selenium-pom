@@ -215,10 +215,6 @@ Enable detailed logging by setting log level to DEBUG in `utils/logger_config.py
 
 ## Sample Test Results
 
-![Test Execution Demo](https://i.imgur.com/a/jqBbv8Q.gif)
-
-*Automated test execution demonstrating end-to-end scenarios*
-
 ```
 test_insider.py::TestInsider::test_end_to_end_insider_flow 
 
